@@ -1,5 +1,6 @@
 # Real-Time Gaze Heatmap Shader
 
+Click image to Play
 [![Preview Video](https://img.youtube.com/vi/8MFfP0brp5g/0.jpg)](https://youtu.be/8MFfP0brp5g)
 
 ## Why this matters for UX in VR/3D development
